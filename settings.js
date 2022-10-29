@@ -19,16 +19,16 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['254768371432']
-global.premium = ['254768371432']
-global.ownernomer = '254768371432'
+global.owner = ['254758553152']
+global.premium = ['254758553152']
+global.ownernomer = '254758553152'
 global.ownername = '☠︎︎༒︎𝕻𝖗𝖎𝖓𝖈𝖊༒︎☠︎︎'
 global.botname = '☠︎︎༒︎𝕻𝖗𝖎𝖓𝖈𝖊༒︎☠︎︎'
 global.footer = '©☠︎︎༒︎𝕻𝖗𝖎𝖓𝖈𝖊༒︎☠︎︎.'
 global.ig = 'https://github.com/princemaster2'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
+global.myweb = 'https://youtube.com/channel/UCk0rkX1tGBsANaUXFLm-WDg'
 global.packname = '☠︎︎༒︎𝕻𝖗𝖎𝖓𝖈𝖊༒︎'
 global.author = '☠︎︎༒︎𝕻𝖗𝖎𝖓𝖈𝖊༒︎'
 global.sessionName = 'session'
